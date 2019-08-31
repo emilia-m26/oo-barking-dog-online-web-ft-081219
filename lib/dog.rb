@@ -1,12 +1,12 @@
-# class Dog 
+class Dog 
 
-# attr_accessor :name 
+attr_accessor :name 
 
-#   def bark 
-#     puts "woof!"
-#   end
+  def bark 
+    puts "woof!"
+  end
 
-# end
+end
 
 # class Dog 
   
